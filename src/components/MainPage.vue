@@ -1,5 +1,5 @@
 <template>
-   <MainPage />
+   <Navigation />
 </template>
 
 <script setup></script>

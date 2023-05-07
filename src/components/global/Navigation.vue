@@ -1,5 +1,5 @@
 <template>
-   <MainPage />
+   <nav class="nav-wrapper"></nav>
 </template>
 
 <script setup></script>
